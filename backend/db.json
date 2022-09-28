@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "2.70"
     },
     {
       "id": 2,
@@ -17,12 +17,12 @@
     },
     {
       "name": "Lapis Preto",
-      "price": "2.50",
+      "price": "3.50",
       "id": 4
     },
     {
-      "name": "Pra Excluir",
-      "price": "10.00",
+      "name": "Novo produto ",
+      "price": "222.00",
       "id": 5
     }
   ]
