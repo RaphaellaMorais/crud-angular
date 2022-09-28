@@ -19,6 +19,11 @@
       "name": "Lapis Preto",
       "price": "2.50",
       "id": 4
+    },
+    {
+      "name": "Pra Excluir",
+      "price": "10.00",
+      "id": 5
     }
   ]
 }
